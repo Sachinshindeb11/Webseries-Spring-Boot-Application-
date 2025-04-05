@@ -26,9 +26,11 @@ This is a live Spring Boot project for managing web series content, user authent
 
 
 
-   <div style="position:relative; width:100%; height:0px; padding-bottom:56.206%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/isx8rn?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 ❗ Note
 Source code is hidden for security reasons. This repository serves as a portfolio showcase only.
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.206%"><iframe allow="fullscreen;autoplay" allowfullscreen height="100%" src="https://streamable.com/e/isx8rn?autoplay=1&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 📧 Contact
 For access or collaboration, contact the author.
