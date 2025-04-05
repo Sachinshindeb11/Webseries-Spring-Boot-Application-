@@ -28,3 +28,8 @@ https://sachinshindeb11.github.io/Webseries-Spring-Boot-Application-/
 3. Run the application using:
    ```bash
    mvn spring-boot:run
+❗ Note
+Source code is hidden for security reasons. This repository serves as a portfolio showcase only.
+
+📧 Contact
+For access or collaboration, contact the author.
