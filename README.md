@@ -4,7 +4,7 @@ This is a live Spring Boot project for managing web series content, user authent
 
 ## 📽️ Demo
 
-[![Watch the Demo]([https://cdn.streamable.com/image/isx8rn.jpg)](https://streamable.com/isx8rn](https://sachinshindeb11.github.io/Webseries-Spring-Boot-Application-/))
+[![Watch the Demo](https://sachinshindeb11.github.io/Webseries-Spring-Boot-Application-/))
 
 > 🔗 Click the image to watch a demo video of the application in action.
 
