@@ -4,9 +4,8 @@ This is a live Spring Boot project for managing web series content, user authent
 
 ## 📽️ Demo
 
-[![Watch the Demo](https://sachinshindeb11.github.io/Webseries-Spring-Boot-Application-/))
-
-> 🔗 Click the image to watch a demo video of the application in action.
+Watch Demo Video Of Application Running on LocalHost Server
+https://sachinshindeb11.github.io/Webseries-Spring-Boot-Application-/
 
 ## 📌 Features
 - User Authentication and Authorization
