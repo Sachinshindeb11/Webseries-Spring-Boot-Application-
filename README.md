@@ -33,3 +33,5 @@ Source code is hidden for security reasons. This repository serves as a portfoli
 
 📧 Contact
 For access or collaboration, contact the author.
+Email:Sachinshindeb11@gmail.com
+Phone number: 9611543703
