@@ -1,5 +1,3 @@
-# Webseries-Spring-Boot-Application-
-
 # 🎬 Webseries Spring Boot Application
 
 This is a live Spring Boot project for managing web series content, user authentication, favorites, episodes, and seasons.
